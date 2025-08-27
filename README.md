@@ -14,3 +14,10 @@ graph TD;
     B --> |Não| D[Reprovado];
 ```
 
+```mermaid
+gantt
+    title Exemplo de Gráfico de Gantt
+    dateFormat YYYY-MM-DD
+    section 1ºBimestre
+    section 2ºBimestre
+```
